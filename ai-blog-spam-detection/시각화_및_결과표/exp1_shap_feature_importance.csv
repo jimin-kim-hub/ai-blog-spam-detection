@@ -1,0 +1,314 @@
+﻿feature,mean_abs_shap
+adjective_ratio,1.3285176
+sentence_count,0.9443177
+tfidf_개인적으로는,0.8758436
+friendly_ending_count,0.6832709
+tfidf_개인적으로는 너무,0.5391879
+verb_ratio,0.4722816
+tfidf_너무,0.44700053
+sentence_len_std,0.42893583
+tfidf_전체적으로,0.39346394
+tfidf_생각보다,0.38433555
+tfidf_같아요,0.35427243
+tfidf_기분,0.28418106
+punctuation_ratio,0.19731791
+adverb_ratio,0.1891254
+tfidf_맛집,0.15971993
+tfidf_과하지,0.083190046
+tfidf_마음에,0.078259476
+tfidf_강남역,0.06811506
+tfidf_분위기가,0.065397054
+tfidf_점이,0.06466416
+tfidf_과하지 않은,0.055168267
+avg_sentence_len,0.047082573
+tfidf_기분 좋게,0.04406327
+tfidf_있었어요,0.037368283
+tfidf_편해서,0.031967554
+noun_ratio,0.027001947
+tfidf_않은,0.025824536
+tfidf_들렀지만,0.022690084
+tfidf_알차게,0.022113398
+tfidf_만족도가,0.019394867
+tfidf_괜찮아서,0.018623887
+tfidf_갔는데,0.018430337
+josa_density,0.017653842
+tfidf_친구랑,0.015965728
+tfidf_기억에,0.015422642
+tfidf_맛도,0.015043792
+josa_ratio,0.010099461
+tfidf_내돈내산,0.008313993
+tfidf_마무리할,0.007997193
+noun_density,0.0048639756
+tfidf_않고,0.0
+tfidf_이렇게,0.0
+tfidf_요즘,0.0
+tfidf_웨이팅만,0.0
+tfidf_쓰기,0.0
+tfidf_웨이팅만 조금,0.0
+tfidf_써볼수록 편한,0.0
+tfidf_은근,0.0
+tfidf_은근 기억에,0.0
+tfidf_음식,0.0
+tfidf_음식도,0.0
+tfidf_음식도 깔끔하게,0.0
+tfidf_의미가,0.0
+tfidf_의미가 있었어요,0.0
+tfidf_이번에,0.0
+tfidf_오랜만에,0.0
+tfidf_일상에서,0.0
+tfidf_일상에서 쓰기,0.0
+tfidf_써볼수록,0.0
+tfidf_써볼 생각입니다,0.0
+tfidf_있게,0.0
+tfidf_있게 다시,0.0
+tfidf_있어서,0.0
+tfidf_써볼,0.0
+tfidf_있어서 만족스러운,0.0
+tfidf_있어요,0.0
+tfidf_싶어요,0.0
+tfidf_있었어요 작은,0.0
+tfidf_왔습니다,0.0
+tfidf_오래 남을,0.0
+tfidf_않고 마감도,0.0
+tfidf_오래,0.0
+tfidf_않고 양도,0.0
+tfidf_않아,0.0
+tfidf_않았어요,0.0
+tfidf_아이폰11,0.0
+tfidf_않았어요 천천히,0.0
+tfidf_아이폰 11,0.0
+tfidf_않은 점이,0.0
+tfidf_아이폰,0.0
+tfidf_아쉬운 부분도,0.0
+tfidf_아쉬운,0.0
+tfidf_아닌 듯해도,0.0
+tfidf_알차게 시간을,0.0
+tfidf_아닌,0.0
+tfidf_양도,0.0
+tfidf_어렵지,0.0
+tfidf_있을,0.0
+tfidf_없었고,0.0
+tfidf_없었고 일상에서,0.0
+tfidf_없이,0.0
+tfidf_없이 먹기,0.0
+tfidf_없이 시작했는데,0.0
+tfidf_없이 즐길,0.0
+tfidf_여유,0.0
+tfidf_여유 있게,0.0
+tfidf_연말정산,0.0
+tfidf_오늘은,0.0
+tfidf_쓰기 편해서,0.0
+tfidf_어렵지 않았어요,0.0
+tfidf_재구매를 고민할,0.0
+tfidf_있을 같아요,0.0
+tfidf_크게 부담,0.0
+tfidf_편해서 좋았어요,0.0
+tfidf_편해서 당분간,0.0
+tfidf_편한 점이,0.0
+tfidf_편한,0.0
+tfidf_편하게 즐길,0.0
+tfidf_편하게,0.0
+tfidf_크게,0.0
+tfidf_찾다가,0.0
+tfidf_천천히 정리하니,0.0
+tfidf_천천히,0.0
+tfidf_처음엔 반신반의했지만,0.0
+tfidf_처음엔,0.0
+tfidf_처음 기대했던,0.0
+tfidf_처음 가보는,0.0
+tfidf_편해진,0.0
+tfidf_편해진 느낌입니다,0.0
+tfidf_하루,0.0
+tfidf_하루 분위기가,0.0
+tfidf_하지,0.0
+tfidf_해보고,0.0
+tfidf_해보고 싶어요,0.0
+tfidf_해보니,0.0
+tfidf_해보니 생각보다,0.0
+tfidf_후기,0.0
+tfidf_후기 남겨보면,0.0
+tfidf_가면 들러보고,0.0
+tfidf_가면,0.0
+tfidf_가격도,0.0
+tfidf_2020년 연말정산,0.0
+tfidf_2020년,0.0
+llm_style_count,0.0
+tfidf_처음,0.0
+tfidf_짧게 들렀지만,0.0
+tfidf_있지만,0.0
+tfidf_전체적으로 무난하면서도,0.0
+tfidf_정리하니 마음도,0.0
+tfidf_정리하니,0.0
+tfidf_정도는 됩니다,0.0
+tfidf_정도는,0.0
+tfidf_점이 많았어요,0.0
+tfidf_점이 마음에,0.0
+tfidf_가볍게,0.0
+tfidf_짧게 남겨봅니다,0.0
+tfidf_시작했는데 생각보다,0.0
+tfidf_재구매를,0.0
+tfidf_작은 변화였지만,0.0
+tfidf_작은,0.0
+tfidf_자주,0.0
+tfidf_있지만 재구매를,0.0
+tfidf_조금,0.0
+tfidf_조금 여유,0.0
+tfidf_조금 편해진,0.0
+tfidf_좋게,0.0
+tfidf_좋게 마무리할,0.0
+tfidf_좋게 마무리했답니다,0.0
+tfidf_좋았어요,0.0
+tfidf_좋았어요 음식도,0.0
+tfidf_좋은,0.0
+tfidf_좋을,0.0
+tfidf_좋을 같아요,0.0
+tfidf_즐길,0.0
+tfidf_즐길 있어서,0.0
+tfidf_즐길 있을,0.0
+tfidf_직접,0.0
+tfidf_직접 해보니,0.0
+tfidf_짧게,0.0
+tfidf_싶더라고요,0.0
+tfidf_생각입니다,0.0
+tfidf_시작했는데,0.0
+tfidf_남겨봅니다 기대,0.0
+tfidf_다녀왔는데,0.0
+tfidf_느낌입니다,0.0
+tfidf_너무 과하지,0.0
+tfidf_가보고,0.0
+tfidf_남을 같아요,0.0
+tfidf_남을,0.0
+tfidf_남겨봅니다,0.0
+tfidf_다시,0.0
+tfidf_남겨보면 처음엔,0.0
+tfidf_남겨보면,0.0
+tfidf_남겨두기에도 괜찮아서,0.0
+tfidf_남겨두기에도,0.0
+tfidf_나와서 부담,0.0
+tfidf_나와서,0.0
+tfidf_다녀왔는데 생각보다,0.0
+tfidf_다시 가보고,0.0
+tfidf_나름 의미가,0.0
+tfidf_달라져서,0.0
+tfidf_대해 짧게,0.0
+tfidf_대해,0.0
+tfidf_대표,0.0
+tfidf_당분간 계속,0.0
+tfidf_당분간,0.0
+tfidf_달라져서 기분,0.0
+tfidf_단점은 없었고,0.0
+tfidf_다음에,0.0
+tfidf_단점은,0.0
+tfidf_다음에도 비슷하게,0.0
+tfidf_다음에도,0.0
+tfidf_다음에는 조금,0.0
+tfidf_다음에는,0.0
+tfidf_다음에 근처,0.0
+tfidf_나오는,0.0
+tfidf_나름,0.0
+tfidf_시간이었답니다,0.0
+tfidf_겪어보니,0.0
+tfidf_괜찮아서 기억에,0.0
+tfidf_고민할 정도는,0.0
+tfidf_고민할,0.0
+tfidf_계속 써볼,0.0
+tfidf_계속,0.0
+tfidf_겪어보니 나름,0.0
+tfidf_것보다 만족도가,0.0
+tfidf_괜찮았고,0.0
+tfidf_것보다,0.0
+tfidf_가보는,0.0
+tfidf_가보는 분들도,0.0
+tfidf_같아요 전체적으로,0.0
+tfidf_같아요 다음에는,0.0
+tfidf_같아요 개인적으로는,0.0
+tfidf_괜찮아서 전체적으로,0.0
+tfidf_괜찮았고 다음에,0.0
+tfidf_깔끔하게 나와서,0.0
+tfidf_기대보다,0.0
+tfidf_깔끔하게,0.0
+tfidf_기억에 오래,0.0
+tfidf_가보고 싶어요,0.0
+tfidf_기대했던 것보다,0.0
+tfidf_기대했던,0.0
+tfidf_기대보다 편하게,0.0
+tfidf_기대 없이,0.0
+tfidf_괜찮았어요,0.0
+tfidf_기대,0.0
+tfidf_근처에서,0.0
+tfidf_근처 가면,0.0
+tfidf_근처,0.0
+tfidf_그래도,0.0
+tfidf_괜찮았어요 단점은,0.0
+tfidf_동안,0.0
+tfidf_됩니다,0.0
+tfidf_들러보고,0.0
+tfidf_부분도 있지만,0.0
+tfidf_비슷하게 해보고,0.0
+tfidf_비슷하게,0.0
+tfidf_분위기가 편해서,0.0
+tfidf_분위기가 달라져서,0.0
+tfidf_분들도 크게,0.0
+tfidf_분들도,0.0
+tfidf_부분도,0.0
+tfidf_사용법도 어렵지,0.0
+tfidf_부담 없이,0.0
+tfidf_부담,0.0
+tfidf_보냈어요,0.0
+tfidf_별일 아닌,0.0
+tfidf_별일,0.0
+tfidf_변화였지만 하루,0.0
+tfidf_사용법도,0.0
+tfidf_사용해보니,0.0
+tfidf_들러보고 싶더라고요,0.0
+tfidf_생각이,0.0
+tfidf_시간이,0.0
+tfidf_시간을 보냈어요,0.0
+tfidf_시간을,0.0
+tfidf_소득공제,0.0
+tfidf_강남역 맛집,0.0
+tfidf_생각이 많았는데,0.0
+tfidf_생각보다 어렵지,0.0
+tfidf_사용해보니 처음,0.0
+tfidf_생각보다 알차게,0.0
+tfidf_생각보다 분위기가,0.0
+tfidf_생각보다 만족스러웠고,0.0
+tfidf_2019년,0.0
+tfidf_사진으로 남겨두기에도,0.0
+tfidf_사진으로,0.0
+tfidf_변화였지만,0.0
+tfidf_반신반의했지만 써볼수록,0.0
+tfidf_반신반의했지만,0.0
+tfidf_마무리했답니다,0.0
+tfidf_만족도가 괜찮았어요,0.0
+tfidf_막상 겪어보니,0.0
+tfidf_막상,0.0
+tfidf_마음에 들었어요,0.0
+tfidf_마음도 조금,0.0
+tfidf_마음도,0.0
+tfidf_마무리할 있었어요,0.0
+tfidf_무난하면서도 기분,0.0
+tfidf_때문에 생각이,0.0
+tfidf_때문에,0.0
+tfidf_듯해도 막상,0.0
+tfidf_듯해도,0.0
+tfidf_들었어요,0.0
+tfidf_들렀지만 생각보다,0.0
+tfidf_만족스러운,0.0
+tfidf_만족스러운 시간이었답니다,0.0
+tfidf_만족스러웠고,0.0
+tfidf_만족스러웠고 다음에도,0.0
+tfidf_만족했답니다 웨이팅만,0.0
+tfidf_만족했어요,0.0
+tfidf_많았는데,0.0
+tfidf_많았는데 직접,0.0
+tfidf_많았어요,0.0
+tfidf_많았어요 아쉬운,0.0
+tfidf_맛이,0.0
+tfidf_먹고,0.0
+tfidf_먹기,0.0
+tfidf_먹기 괜찮았고,0.0
+tfidf_먹을,0.0
+tfidf_메뉴가,0.0
+tfidf_무난하면서도,0.0
+tfidf_11,0.0

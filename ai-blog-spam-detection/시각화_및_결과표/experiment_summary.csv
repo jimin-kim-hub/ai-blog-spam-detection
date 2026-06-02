@@ -1,0 +1,5 @@
+﻿experiment,feature_mode,model,test_accuracy,test_precision,test_recall,test_f1,cv_f1_mean,cv_f1_std,dataset_composition,accuracy,precision,recall,f1,fp_count,fn_count,top_feature,main_interpretation
+exp1,combined,,,,,,0.9976,,,0.9944,,,0.9945,1.0,0.0,adjective_ratio,GPT형 AI 탐지
+exp2,combined,,,,,,0.9859,,,0.9704,,,0.9574,4.0,0.0,sentence_count,인간형 AI 탐지
+ai_vs_ai,combined,,,,,,0.9857,,,1.0,,,1.0,0.0,0.0,friendly_ending_count,AI 위장술 진화 자체 분석
+exp3,combined,,,,,,0.9893,,,0.9833,,,0.9832,1.0,2.0,adjective_ratio,혼합 AI 탐지
