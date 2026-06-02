@@ -57,7 +57,7 @@
 
 ---
 
-## 💻 How to Run (코드 실행 가이드)
+## How to Run (코드 실행 가이드)
 본 프로젝트는 누구나 쉽게 결과를 재현하고 시각화할 수 있도록 완벽하게 세팅되어 있습니다.
 
 ### Step 1. 프로젝트 다운로드 (Clone)
@@ -79,7 +79,7 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib konlpy
 주피터 노트북을 실행하신 뒤, 코드 최상단에 있는 `EXPERIMENT_NAME` 변수를 변경하여 원하는 실험 결과를 즉시 확인할 수 있습니다.
 * `EXPERIMENT_NAME = "exp1"` : 전형적인 GPT형 AI 탐지 시뮬레이션
 * `EXPERIMENT_NAME = "exp2"` : 인간형 위장 AI 탐지 시뮬레이션
-* **`EXPERIMENT_NAME = "exp3"` : 실제 인터넷 혼합 생태계 시뮬레이션 (🔥 본 프로젝트의 메인 분석 결과를 보시려면 exp3로 설정하세요!)**
+* **`EXPERIMENT_NAME = "exp3"` : 실제 인터넷 혼합 생태계 시뮬레이션 ( 본 프로젝트의 메인 분석 결과를 보시려면 exp3로 설정하세요!)**
 * `EXPERIMENT_NAME = "ai_vs_ai"` : AI 내부의 문체 진화 특성 증명 모드
 
 원하는 모드로 설정 후 **[Run All (전체 실행)]**을 누르시면, 데이터 전처리부터 XGBoost 모델 학습, 성능 평가 표, 오탐/미탐 결과 분석, 그리고 대망의 SHAP 시각화 그래프까지 모두 자동으로 출력됩니다!
